@@ -15,7 +15,7 @@
 
 - [x] lista de atividades
 - [x] novo item 
-- [ ] mais um item
+- [x] mais um item
 
 - [ ] acordar para a vida
 
